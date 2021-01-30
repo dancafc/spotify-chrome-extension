@@ -1,13 +1,11 @@
 {
-    "manifest_version": 2,
-    "name": "Spotify isten to me",
-    "description": "This extension lets you listen along to what your friends are listening to on spotify",
-    "version": "1.0",
-    "browser_action": {
-        "default_icon": "icon.png",
-        "default_popup": "popup.html"
-    },
-    "permissions": [
-        "activeTab"
-    ]
+  "manifest_version": 2,
+  "name": "Spotify isten to me RT EDIT",
+  "description": "This extension lets you listen along to what your friends are listening to on spotify",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
 }
