@@ -1,4 +1,5 @@
-// // console.log('logic');
+console.log('logic');
+
 // import $ from 'jquery';
 
 // $('checkPage').on('click', function() {
